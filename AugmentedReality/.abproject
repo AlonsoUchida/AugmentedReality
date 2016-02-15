@@ -1,0 +1,45 @@
+{
+  "ProjectName": "AugmentedReality",
+  "ProjectGuid": "2c268d4f-322c-4d55-aed8-aa081d4c6b10",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.AugmentedReality",
+  "DisplayName": "AugmentedReality",
+  "Author": "",
+  "Description": "AugmentedReality",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{615f53e4-98e1-4a98-96aa-4a7040504cae}",
+  "WP8ProductID": "{20856544-05d1-4c26-b61a-1b6bc2fb9755}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.AugmentedReality",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
